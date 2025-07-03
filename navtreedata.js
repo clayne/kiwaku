@@ -25,7 +25,11 @@
 var NAVTREE =
 [
   [ "Kiwaku", "index.html", [
-    [ "Kiwaku - Containers Well Made", "index.html", "index" ],
+    [ "Kiwaku - Containers Well Made", "md__2____w_2kiwaku_2kiwaku_2doc_2index.html", [
+      [ "TL:DR Examples", "md__2____w_2kiwaku_2kiwaku_2doc_2index.html#autotoc_md4", null ],
+      [ "Getting Started", "md__2____w_2kiwaku_2kiwaku_2doc_2index.html#autotoc_md5", null ],
+      [ "License", "md__2____w_2kiwaku_2kiwaku_2doc_2index.html#autotoc_md6", null ]
+    ] ],
     [ "Installation and Quick Start", "about.html", [
       [ "Installation & Quick Start", "about.html#install", null ],
       [ "Pre-requisites", "about.html#autotoc_md7", null ],
@@ -42,13 +46,29 @@ var NAVTREE =
         [ "Execution", "about.html#autotoc_md16", null ]
       ] ]
     ] ],
-    [ "Tutorials", "tutorials.html", "tutorials" ],
-    [ "Why and How", "rationale.html", "rationale" ],
+    [ "Tutorials", "tutorials.html", [
+      [ "Multi-dimensional views", "tutorial-01.html", [
+        [ "Introduction", "tutorial-01.html#autotoc_md17", null ],
+        [ "A Quick Example", "tutorial-01.html#autotoc_md18", null ],
+        [ "Working with Views", "tutorial-01.html#autotoc_md19", null ],
+        [ "Conclusion", "tutorial-01.html#autotoc_md20", null ]
+      ] ]
+    ] ],
+    [ "Why and How", "rationale.html", [
+      [ "Glossary", "glossary.html", [
+        [ "Shape-related Terms", "glossary.html#glossary-shape", [
+          [ "Axis", "glossary.html#glossary-axis", null ],
+          [ "Extent", "glossary.html#glossary-extent", null ]
+        ] ],
+        [ "Container-related Terms", "glossary.html#glossary-container", [
+          [ "Order", "glossary.html#glossary-order", null ]
+        ] ]
+      ] ]
+    ] ],
     [ "Change Log", "changelog.html", [
       [ "Version 0.1 (beta)", "changelog.html#v01", null ]
     ] ],
     [ "Licence", "licence.html", null ],
-    [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -67,7 +87,7 @@ var NAVTREE =
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ]
   ] ]

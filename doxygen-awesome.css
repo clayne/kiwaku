@@ -26,17 +26,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 */
+
 html {
-    /* primary theme color. This will affect the entire websites color scheme: links, arrows, labels, ... */
-    --primary-dark-color: hsl(220, 100%, 80%);
-    --primary-color: hsl(220, 100%, 60%);
-    --primary-light-color: hsl(220, 100%, 40%);
-
-    /* page base colors */
-    --page-background-color: white;
-    --page-foreground-color: hsl(90, 69%, 20%);
-    --page-secondary-foreground-color: hsl(220, 100%, 40%);
-
     /* color for all separators on the website: hr, borders, ... */
     --separator-color: #dedede;
 

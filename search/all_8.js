@@ -1,15 +1,9 @@
 var searchData=
 [
-  ['installation_20and_20quick_20start_0',['Installation and Quick Start',['../about.html',1,'']]],
-  ['int16_1',['int16',['../namespacekwk.html#adbd328aa9e82a0ee607645b7fd64fb47',1,'kwk']]],
-  ['int32_2',['int32',['../namespacekwk.html#a04308cf65bf93d23987086e475f0b1d9',1,'kwk']]],
-  ['int64_3',['int64',['../namespacekwk.html#ab69f3e46fbf9221c2e8edef4fe87508f',1,'kwk']]],
-  ['int8_4',['int8',['../namespacekwk.html#ae1a0fbb9847b2b2973593c7d4932c40b',1,'kwk']]],
-  ['is_5fdynamic_5',['is_dynamic',['../structkwk_1_1shape.html#a93aa2f49f015ddc42682e7bbe4178af4',1,'kwk::shape']]],
-  ['is_5fdynamic_5fextent_6',['is_dynamic_extent',['../structkwk_1_1is__dynamic__extent.html',1,'kwk']]],
-  ['is_5ffully_5fdynamic_7',['is_fully_dynamic',['../structkwk_1_1shape.html#ad7cc4178635b97a47f771e630d97da41',1,'kwk::shape']]],
-  ['is_5ffully_5fstatic_8',['is_fully_static',['../structkwk_1_1shape.html#a14d93ff03c503872967f01da532a594f',1,'kwk::shape']]],
-  ['is_5fjoker_9',['is_joker',['../structkwk_1_1is__joker.html',1,'kwk']]],
-  ['is_5fstatic_5fextent_10',['is_static_extent',['../structkwk_1_1is__static__extent.html',1,'kwk']]],
-  ['is_5funit_11',['is_unit',['../structkwk_1_1stride.html#a93e186840a9ab6e2d64a4f438e74882d',1,'kwk::stride']]]
+  ['fit_5fconstraints_0',['fit_constraints',['../structkwk_1_1shape_a9d88738ece8673d9d8d6339f07b92ac5.html#a9d88738ece8673d9d8d6339f07b92ac5',1,'kwk::shape']]],
+  ['fixed_1',['fixed',['../group__utility.html#gaac3d175a241803308de3f331028753e6',1,'kwk']]],
+  ['floor_2',['floor',['../namespacekwk.html#a9733afb75003de91691984b8a4af4543',1,'kwk']]],
+  ['for_5feach_3',['for_each',['../group__algorithms_ga19dd0b9a886b89ddb3f143f5c567729c.html#ga19dd0b9a886b89ddb3f143f5c567729c',1,'kwk::for_each(Func &amp;&amp;f, shape&lt; S... &gt; const &amp;shp)'],['../group__algorithms_ga16aa3f9107d2e0c6c06a728253bcfa9a.html#ga16aa3f9107d2e0c6c06a728253bcfa9a',1,'kwk::for_each(Func &amp;&amp;f, C0 &amp;&amp;c0, Cs &amp;&amp;... cs)']]],
+  ['for_5feach_5findex_4',['for_each_index',['../group__algorithms_ga77ac360814df6bb39e9adfd4e3e9508b.html#ga77ac360814df6bb39e9adfd4e3e9508b',1,'kwk']]],
+  ['from_20source_5',['Installation from Source',['../about.html#autotoc_md11',1,'']]]
 ];

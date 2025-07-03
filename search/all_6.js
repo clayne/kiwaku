@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['generalized_20tag_20invoke_20protocol_0',['Generalized Tag Invoke Protocol',['../group__invoke.html',1,'']]],
-  ['get_1',['get',['../structkwk_1_1any__allocator.html#aabe3eff0e718e783880a4eaac4d42fac',1,'kwk::any_allocator']]],
-  ['glossary_2',['Glossary',['../glossary.html',1,'rationale']]]
+  ['deallocate_0',['deallocate',['../namespacekwk_a6bfff93b539e2372e57e30dcbf35d4e2.html#a6bfff93b539e2372e57e30dcbf35d4e2',1,'kwk::deallocate(any_allocator &amp;a, void *ptr)'],['../namespacekwk_a35509a947397e28b3bc6e673646b57a1.html#a35509a947397e28b3bc6e673646b57a1',1,'kwk::deallocate(heap_allocator const &amp;, void *ptr) noexcept']]],
+  ['depth_1',['depth',['../namespacekwk.html#adbe9690d935124a104a7760b4f93c81f',1,'kwk']]],
+  ['dimensional_20views_2',['Multi-dimensional views',['../tutorial-01.html',1,'tutorials']]],
+  ['documentation_3',['Building the Documentation',['../about.html#autotoc_md13',1,'']]]
 ];

@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['real32_0',['real32',['../namespacekwk.html#a3b13b1bcba3359943146be636c0207da',1,'kwk']]],
-  ['real64_1',['real64',['../namespacekwk.html#a1976486b798b854e789de80922a8b639',1,'kwk']]],
-  ['reference_2',['reference',['../structkwk_1_1table.html#ae6791b5f53e0f80bf3bb5afac70600e0',1,'kwk::table::reference()'],['../structkwk_1_1view.html#a17801a3cd40872a38c204fd7dc3ed379',1,'kwk::view::reference()']]]
+  ['named_20extents_0',['Named extents',['../structkwk_1_1shape_aeba960aa4cd8a10d78d08b902bab9f98.html#autotoc_md2',1,'']]],
+  ['nbdims_1',['nbdims',['../structkwk_1_1shape_a2870724c1239b0ab586934f4eab0cc09.html#a2870724c1239b0ab586934f4eab0cc09',1,'kwk::shape']]],
+  ['numel_2',['numel',['../structkwk_1_1shape_a3007ac267d3dac8441e691340bca2a8e.html#a3007ac267d3dac8441e691340bca2a8e',1,'kwk::shape']]],
+  ['numerical_20extents_3',['Numerical extents',['../structkwk_1_1shape_aeba960aa4cd8a10d78d08b902bab9f98.html#autotoc_md0',1,'']]]
 ];
